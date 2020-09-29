@@ -10,8 +10,8 @@
 - 📫 How to reach me: `jamesmai0512 at hey dot com`
 
 ### Connect with me 
-[<img align="left" alt="jamesmai.dev" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](jamesmai.dev)
-[<img align="left" alt="jamesmai | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/jamesmai0512)
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](jamesmai.dev)
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](linkedin.com/in/jamesmai0512)
 
 <br/>
 
