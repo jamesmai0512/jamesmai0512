@@ -1,7 +1,11 @@
 
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-Hi, I'm James Mai, a Junior Software Developer 🚀 from Viet Nam, currently, 🙍I am passionate about technology. I like to build personal projects. Most of my time, 👨 I am studying to work with projects. I prefer to work with new technology. 
+My name is James Mai.
+
+The technical stacks that I am working, including Ruby / Ruby on Rails, DB Browser for SQLite, HTML/CSS. I graduated as a College Diploma in Information Technology.
+
+I am passionate about technology. I like to build personal projects. Most of my time, I am studying to work with projects. I prefer to work with new technology. 
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
  
