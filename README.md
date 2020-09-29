@@ -11,7 +11,6 @@ Hi, I'm James Mai, a Junior Software Developer 🚀 from Viet Nam, currently, �
 - 🌱 I’m currently learning JavaScript, React
 - 👯 I’m looking to collaborate on JavaScript, React, Ruby, Ruby On Rails, CSS, HTML
 - 😄 Pronouns: he/him
-- 📫 How to reach me: `jamesmai0512 at hey dot com`
 
 ### Connect with me 
 
